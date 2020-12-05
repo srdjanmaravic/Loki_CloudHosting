@@ -8,4 +8,4 @@ HTML, CSS (Grid, Flexbox, Animations)
 
 ### Website Link
 
-Fake cloud hosting website [Live Preview](unruffled-wiles-864b5b.netlify.app)
+Fake cloud hosting website [Live Preview](https://unruffled-wiles-864b5b.netlify.app/)
